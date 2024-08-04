@@ -47,4 +47,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * App Successfully Deployed to Github Pages (10 points)
 
+Link to Github Pages deployment: https://arwalden4.github.io/belly-button-challenge/
+
 
